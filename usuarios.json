@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-19T00:27:08.079Z",
+  "updatedAt": "2026-11-19T00:39:46.456Z",
   "users": [
     {
       "usuario": "lucianomdz.ok",
@@ -17,6 +17,22 @@
       "foto": "",
       "fotoVersion": "",
       "creado": "2026-11-19T00:27:07.543Z"
+    },
+    {
+      "usuario": "kairotester",
+      "nombre": "Kairo",
+      "apellido": "Test",
+      "nacimiento": "1999-11-03",
+      "contacto": {
+        "tipo": "instagram",
+        "valor": "@kairotest"
+      },
+      "salt": "36a732295caa331c606f9d4c0aba789e",
+      "hash": "10f6be7dafdb377dfd547491af4e2a6fb371b9ee7d2cbcfbfc698a514d065ecd",
+      "iter": 150000,
+      "foto": "",
+      "fotoVersion": "",
+      "creado": "2026-11-19T00:39:45.911Z"
     }
   ]
 }
