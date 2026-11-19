@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-19T00:09:43.085Z",
+  "updatedAt": "2026-11-19T00:09:52.544Z",
   "posts": [
     {
       "id": "p_mwmsmk5msqf8",
@@ -8,7 +8,9 @@
       "nombre": "Kairo Test",
       "text": "Primera publicación de prueba en Comunidad 🙏 Que Dios los bendiga.",
       "date": "2026-11-19T00:09:42.538Z",
-      "likes": [],
+      "likes": [
+        "6739b180beb380e9"
+      ],
       "comments": []
     }
   ]
