@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-19T01:03:00.452Z",
+  "updatedAt": "2026-11-19T01:03:06.666Z",
   "posts": [
     {
       "id": "p_mwmtfrt7y9ko",
@@ -11,7 +11,15 @@
       "likes": [
         "0c04a3c0dca2e3ad"
       ],
-      "comments": []
+      "comments": [
+        {
+          "id": "c_mwmuj80jhvwo",
+          "user": "lucianomdz.ok",
+          "nombre": "Luciano Mendoza",
+          "text": "holaaa",
+          "date": "2026-11-19T01:03:06.067Z"
+        }
+      ]
     }
   ]
 }
