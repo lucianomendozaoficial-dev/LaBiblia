@@ -1,25 +1,5 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-19T00:10:01.555Z",
-  "posts": [
-    {
-      "id": "p_mwmsmk5msqf8",
-      "user": "kairotester",
-      "nombre": "Kairo Test",
-      "text": "Primera publicación de prueba en Comunidad 🙏 Que Dios los bendiga.",
-      "date": "2026-11-19T00:09:42.538Z",
-      "likes": [
-        "6739b180beb380e9"
-      ],
-      "comments": [
-        {
-          "id": "c_mwmsmye0t0nn",
-          "user": "kairotester",
-          "nombre": "Kairo Test",
-          "text": "Amén, gracias por compartir.",
-          "date": "2026-11-19T00:10:00.984Z"
-        }
-      ]
-    }
-  ]
+  "updatedAt": "2026-11-19T00:15:31.995Z",
+  "posts": []
 }
