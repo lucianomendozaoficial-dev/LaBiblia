@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-19T01:31:43.927Z",
+  "updatedAt": "2026-11-19T01:32:43.747Z",
   "posts": [
     {
       "id": "p_mwmtfrt7y9ko",
@@ -19,6 +19,13 @@
           "nombre": "Luciano Mendoza",
           "text": "holaaa",
           "date": "2026-11-19T01:03:06.067Z"
+        },
+        {
+          "id": "c_mwmvlbcsrmzw",
+          "user": "belendealviso",
+          "nombre": "Belen Dealviso",
+          "text": "Hola",
+          "date": "2026-11-19T01:32:43.324Z"
         }
       ]
     }
