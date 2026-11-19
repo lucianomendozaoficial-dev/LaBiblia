@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-19T00:57:57.104Z",
+  "updatedAt": "2026-11-19T01:30:08.237Z",
   "users": [
     {
       "usuario": "lucianomdz.ok",
@@ -17,6 +17,23 @@
       "foto": "perfiles/lucianomdz.ok.jpg",
       "fotoVersion": "1795049443476",
       "creado": "2026-11-19T00:27:07.543Z"
+    },
+    {
+      "usuario": "belendealviso",
+      "nombre": "Belen",
+      "apellido": "Dealviso",
+      "nacimiento": "1987-07-07",
+      "contacto": {
+        "tipo": "instagram",
+        "valor": "belendealviso"
+      },
+      "salt": "129adf1a7e21a2c14d68ad3ae0b85542",
+      "hash": "b9b149147b09b90cfb1059be8777e624b1daa782725957f5c4bae9d49bf2594d",
+      "iter": 150000,
+      "foto": "",
+      "fotoVersion": "",
+      "siguiendo": [],
+      "creado": "2026-11-19T01:30:07.747Z"
     }
   ]
 }
