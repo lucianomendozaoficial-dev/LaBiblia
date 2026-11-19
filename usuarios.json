@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-19T00:08:32.514Z",
+  "updatedAt": "2026-11-19T00:11:08.184Z",
   "users": [
     {
       "usuario": "kairotester",
       "nombre": "Kairo",
-      "apellido": "Test",
+      "apellido": "Tester",
       "nacimiento": "2000-05-20",
       "contacto": {
         "tipo": "whatsapp",
@@ -16,7 +16,8 @@
       "iter": 150000,
       "foto": "",
       "fotoVersion": "",
-      "creado": "2026-11-19T00:08:32.030Z"
+      "creado": "2026-11-19T00:08:32.030Z",
+      "actualizado": "2026-11-19T00:11:08.184Z"
     }
   ]
 }
