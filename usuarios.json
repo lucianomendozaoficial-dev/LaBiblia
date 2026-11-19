@@ -1,5 +1,22 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-19T00:15:30.098Z",
-  "users": []
+  "updatedAt": "2026-11-19T00:27:08.079Z",
+  "users": [
+    {
+      "usuario": "lucianomdz.ok",
+      "nombre": "Luciano",
+      "apellido": "Mendoza",
+      "nacimiento": "2005-09-18",
+      "contacto": {
+        "tipo": "whatsapp",
+        "valor": "1151186792"
+      },
+      "salt": "8ba6299653a87a319e4406a5aaf6f3ac",
+      "hash": "f7a01ebb2f5999528d5b93ff58f9b06da31e69440661e3ca49aa0ceff592ba3e",
+      "iter": 150000,
+      "foto": "",
+      "fotoVersion": "",
+      "creado": "2026-11-19T00:27:07.543Z"
+    }
+  ]
 }
