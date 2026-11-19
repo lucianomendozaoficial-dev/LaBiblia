@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-19T00:56:49.953Z",
+  "updatedAt": "2026-11-19T00:57:03.733Z",
   "users": [
     {
       "usuario": "lucianomdz.ok",
@@ -32,7 +32,9 @@
       "iter": 150000,
       "foto": "",
       "fotoVersion": "",
-      "siguiendo": [],
+      "siguiendo": [
+        "lucianomdz.ok"
+      ],
       "creado": "2026-11-19T00:56:49.434Z"
     }
   ]
