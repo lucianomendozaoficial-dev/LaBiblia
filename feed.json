@@ -1,7 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-19T00:32:37.289Z",
+  "updatedAt": "2026-11-19T00:39:58.298Z",
   "posts": [
+    {
+      "id": "p_mwmtpfpn8inz",
+      "user": "kairotester",
+      "nombre": "Kairo Test",
+      "text": "Primera publicación con el nuevo diseño 🕊️",
+      "date": "2026-11-19T00:39:56.363Z",
+      "likes": [],
+      "comments": []
+    },
     {
       "id": "p_mwmtfrt7y9ko",
       "user": "lucianomdz.ok",
