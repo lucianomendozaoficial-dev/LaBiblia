@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-19T01:32:00.513Z",
+  "updatedAt": "2026-11-19T01:33:03.809Z",
   "users": [
     {
       "usuario": "lucianomdz.ok",
@@ -16,7 +16,10 @@
       "iter": 150000,
       "foto": "perfiles/lucianomdz.ok.jpg",
       "fotoVersion": "1795049443476",
-      "creado": "2026-11-19T00:27:07.543Z"
+      "creado": "2026-11-19T00:27:07.543Z",
+      "siguiendo": [
+        "belendealviso"
+      ]
     },
     {
       "usuario": "belendealviso",
