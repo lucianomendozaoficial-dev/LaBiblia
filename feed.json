@@ -1,5 +1,15 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-19T00:01:42.649Z",
-  "posts": []
+  "updatedAt": "2026-11-19T00:09:43.085Z",
+  "posts": [
+    {
+      "id": "p_mwmsmk5msqf8",
+      "user": "kairotester",
+      "nombre": "Kairo Test",
+      "text": "Primera publicación de prueba en Comunidad 🙏 Que Dios los bendiga.",
+      "date": "2026-11-19T00:09:42.538Z",
+      "likes": [],
+      "comments": []
+    }
+  ]
 }
