@@ -1,5 +1,22 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-19T00:01:42.649Z",
-  "users": []
+  "updatedAt": "2026-11-19T00:08:32.514Z",
+  "users": [
+    {
+      "usuario": "kairotester",
+      "nombre": "Kairo",
+      "apellido": "Test",
+      "nacimiento": "2000-05-20",
+      "contacto": {
+        "tipo": "whatsapp",
+        "valor": "+5491100000000"
+      },
+      "salt": "09a055a615dc27754e0f59656fc4e2d3",
+      "hash": "24cc7d54b130017b042c60bbb509b8c781e44c15ae56c2a3bcacaeab07e6de56",
+      "iter": 150000,
+      "foto": "",
+      "fotoVersion": "",
+      "creado": "2026-11-19T00:08:32.030Z"
+    }
+  ]
 }
