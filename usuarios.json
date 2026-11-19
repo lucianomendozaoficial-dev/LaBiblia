@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-19T00:40:50.500Z",
+  "updatedAt": "2026-11-19T00:50:44.092Z",
   "users": [
     {
       "usuario": "lucianomdz.ok",
@@ -14,8 +14,8 @@
       "salt": "8ba6299653a87a319e4406a5aaf6f3ac",
       "hash": "f7a01ebb2f5999528d5b93ff58f9b06da31e69440661e3ca49aa0ceff592ba3e",
       "iter": 150000,
-      "foto": "",
-      "fotoVersion": "",
+      "foto": "perfiles/lucianomdz.ok.jpg",
+      "fotoVersion": "1795049443476",
       "creado": "2026-11-19T00:27:07.543Z"
     }
   ]
