@@ -1,23 +1,5 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-19T00:11:19.364Z",
-  "users": [
-    {
-      "usuario": "kairotester",
-      "nombre": "Kairo",
-      "apellido": "Tester",
-      "nacimiento": "2000-05-20",
-      "contacto": {
-        "tipo": "whatsapp",
-        "valor": "+5491100000000"
-      },
-      "salt": "09a055a615dc27754e0f59656fc4e2d3",
-      "hash": "24cc7d54b130017b042c60bbb509b8c781e44c15ae56c2a3bcacaeab07e6de56",
-      "iter": 150000,
-      "foto": "perfiles/kairotester.jpg",
-      "fotoVersion": "1795047078816",
-      "creado": "2026-11-19T00:08:32.030Z",
-      "actualizado": "2026-11-19T00:11:08.184Z"
-    }
-  ]
+  "updatedAt": "2026-11-19T00:15:30.098Z",
+  "users": []
 }
