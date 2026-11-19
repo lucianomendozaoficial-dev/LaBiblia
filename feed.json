@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-19T00:32:31.682Z",
+  "updatedAt": "2026-11-19T00:32:37.289Z",
   "posts": [
     {
       "id": "p_mwmtfrt7y9ko",
@@ -8,9 +8,7 @@
       "nombre": "Luciano Mendoza",
       "text": "Dios te ama!!",
       "date": "2026-11-19T00:32:25.483Z",
-      "likes": [
-        "0c04a3c0dca2e3ad"
-      ],
+      "likes": [],
       "comments": []
     }
   ]
