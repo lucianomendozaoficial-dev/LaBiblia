@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-19T00:50:44.092Z",
+  "updatedAt": "2026-11-19T00:56:49.953Z",
   "users": [
     {
       "usuario": "lucianomdz.ok",
@@ -17,6 +17,23 @@
       "foto": "perfiles/lucianomdz.ok.jpg",
       "fotoVersion": "1795049443476",
       "creado": "2026-11-19T00:27:07.543Z"
+    },
+    {
+      "usuario": "seguidor_test",
+      "nombre": "Seguidor",
+      "apellido": "Test",
+      "nacimiento": "2001-02-03",
+      "contacto": {
+        "tipo": "whatsapp",
+        "valor": "+5491100000001"
+      },
+      "salt": "800fd66766496425726f3ca8e5846e67",
+      "hash": "45b3b185ec7047f3e575c57a33d905d2489d6ee02c6b8b925ed132cf2509d5b7",
+      "iter": 150000,
+      "foto": "",
+      "fotoVersion": "",
+      "siguiendo": [],
+      "creado": "2026-11-19T00:56:49.434Z"
     }
   ]
 }
