@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-19T01:31:18.097Z",
+  "updatedAt": "2026-11-19T01:32:00.513Z",
   "users": [
     {
       "usuario": "lucianomdz.ok",
@@ -32,7 +32,9 @@
       "iter": 150000,
       "foto": "perfiles/belendealviso.jpg",
       "fotoVersion": "1795051877588",
-      "siguiendo": [],
+      "siguiendo": [
+        "lucianomdz.ok"
+      ],
       "creado": "2026-11-19T01:30:07.747Z"
     }
   ]
