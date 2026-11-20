@@ -1,26 +1,5 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-19T01:34:02.466Z",
-  "posts": [
-    {
-      "id": "p_mwmtfrt7y9ko",
-      "user": "lucianomdz.ok",
-      "nombre": "Luciano Mendoza",
-      "text": "Dios te ama!!",
-      "date": "2026-11-19T00:32:25.483Z",
-      "likes": [
-        "0c04a3c0dca2e3ad",
-        "02a08323df7e2638"
-      ],
-      "comments": [
-        {
-          "id": "c_mwmvlbcsrmzw",
-          "user": "belendealviso",
-          "nombre": "Belen Dealviso",
-          "text": "Hola",
-          "date": "2026-11-19T01:32:43.324Z"
-        }
-      ]
-    }
-  ]
+  "updatedAt": "2026-11-20T20:00:39.203Z",
+  "posts": []
 }
