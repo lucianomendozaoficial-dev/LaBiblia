@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-23T10:50:29.450Z",
+  "updatedAt": "2026-11-23T10:50:38.911Z",
   "posts": [
     {
       "id": "p_mwpenyfpiswk",
@@ -8,7 +8,9 @@
       "nombre": "Luciano Mendoza",
       "text": "Jesús es el el camino, la verdad y la vida💘 ven a él y veras la luz, veras el camino que debes seguir, y obtendras victoria donde quiera que hayas de ir🤍🙏🏻",
       "date": "2026-11-20T20:02:11.606Z",
-      "likes": [],
+      "likes": [
+        "0c04a3c0dca2e3ad"
+      ],
       "comments": [
         {
           "id": "c_mwt5a00737bj",
